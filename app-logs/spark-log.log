@@ -1,0 +1,506 @@
+22/02/06 19:53:43 INFO Kafka Producer Demo: Kafka producer Application Started ...
+22/02/06 19:53:43 INFO Kafka Producer Demo: Reading parameters from property file
+22/02/06 19:53:43 INFO Kafka Producer Demo: Sending message to Kafka topic: 1
+22/02/06 19:53:43 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '1', 'transaction_card_type': 'MasterCard', 'transaction_amount': 299.26, 'transaction_datetime': '2022-02-06 19:53:43'}
+22/02/06 19:53:44 INFO Kafka Producer Demo: Sending message to Kafka topic: 2
+22/02/06 19:53:44 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '2', 'transaction_card_type': 'Maestro', 'transaction_amount': 266.67, 'transaction_datetime': '2022-02-06 19:53:44'}
+22/02/06 19:53:45 INFO Kafka Producer Demo: Sending message to Kafka topic: 3
+22/02/06 19:53:45 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '3', 'transaction_card_type': 'MasterCard', 'transaction_amount': 487.24, 'transaction_datetime': '2022-02-06 19:53:45'}
+22/02/06 19:53:46 INFO Kafka Producer Demo: Sending message to Kafka topic: 4
+22/02/06 19:53:46 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '4', 'transaction_card_type': 'Visa', 'transaction_amount': 371.49, 'transaction_datetime': '2022-02-06 19:53:46'}
+22/02/06 19:53:47 INFO Kafka Producer Demo: Sending message to Kafka topic: 5
+22/02/06 19:53:47 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '5', 'transaction_card_type': 'Visa', 'transaction_amount': 173.59, 'transaction_datetime': '2022-02-06 19:53:47'}
+22/02/06 19:53:48 INFO Kafka Producer Demo: Sending message to Kafka topic: 6
+22/02/06 19:53:48 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '6', 'transaction_card_type': 'Maestro', 'transaction_amount': 71.64, 'transaction_datetime': '2022-02-06 19:53:48'}
+22/02/06 19:53:49 INFO Kafka Producer Demo: Sending message to Kafka topic: 7
+22/02/06 19:53:49 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '7', 'transaction_card_type': 'MasterCard', 'transaction_amount': 337.1, 'transaction_datetime': '2022-02-06 19:53:49'}
+22/02/06 19:53:50 INFO Kafka Producer Demo: Sending message to Kafka topic: 8
+22/02/06 19:53:50 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '8', 'transaction_card_type': 'Maestro', 'transaction_amount': 239.41, 'transaction_datetime': '2022-02-06 19:53:50'}
+22/02/06 19:53:51 INFO Kafka Producer Demo: Sending message to Kafka topic: 9
+22/02/06 19:53:51 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '9', 'transaction_card_type': 'Maestro', 'transaction_amount': 111.0, 'transaction_datetime': '2022-02-06 19:53:51'}
+22/02/06 19:53:52 INFO Kafka Producer Demo: Sending message to Kafka topic: 10
+22/02/06 19:53:52 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '10', 'transaction_card_type': 'Visa', 'transaction_amount': 474.66, 'transaction_datetime': '2022-02-06 19:53:52'}
+22/02/06 19:53:53 INFO Kafka Producer Demo: Sending message to Kafka topic: 11
+22/02/06 19:53:53 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '11', 'transaction_card_type': 'MasterCard', 'transaction_amount': 37.45, 'transaction_datetime': '2022-02-06 19:53:53'}
+22/02/06 19:53:54 INFO Kafka Producer Demo: Sending message to Kafka topic: 12
+22/02/06 19:53:54 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '12', 'transaction_card_type': 'MasterCard', 'transaction_amount': 540.03, 'transaction_datetime': '2022-02-06 19:53:54'}
+22/02/06 19:53:55 INFO Kafka Producer Demo: Sending message to Kafka topic: 13
+22/02/06 19:53:55 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '13', 'transaction_card_type': 'Visa', 'transaction_amount': 206.53, 'transaction_datetime': '2022-02-06 19:53:55'}
+22/02/06 19:53:56 INFO Kafka Producer Demo: Sending message to Kafka topic: 14
+22/02/06 19:53:56 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '14', 'transaction_card_type': 'MasterCard', 'transaction_amount': 292.85, 'transaction_datetime': '2022-02-06 19:53:56'}
+22/02/06 19:53:57 INFO Kafka Producer Demo: Sending message to Kafka topic: 15
+22/02/06 19:53:57 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '15', 'transaction_card_type': 'Visa', 'transaction_amount': 452.38, 'transaction_datetime': '2022-02-06 19:53:57'}
+22/02/06 19:53:58 INFO Kafka Producer Demo: Sending message to Kafka topic: 16
+22/02/06 19:53:58 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '16', 'transaction_card_type': 'Maestro', 'transaction_amount': 221.75, 'transaction_datetime': '2022-02-06 19:53:58'}
+22/02/06 19:53:59 INFO Kafka Producer Demo: Sending message to Kafka topic: 17
+22/02/06 19:53:59 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '17', 'transaction_card_type': 'Maestro', 'transaction_amount': 170.48, 'transaction_datetime': '2022-02-06 19:53:59'}
+22/02/06 19:54:00 INFO Kafka Producer Demo: Sending message to Kafka topic: 18
+22/02/06 19:54:00 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '18', 'transaction_card_type': 'Maestro', 'transaction_amount': 435.1, 'transaction_datetime': '2022-02-06 19:54:00'}
+22/02/06 19:54:01 INFO Kafka Producer Demo: Sending message to Kafka topic: 19
+22/02/06 19:54:01 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '19', 'transaction_card_type': 'Visa', 'transaction_amount': 523.9, 'transaction_datetime': '2022-02-06 19:54:01'}
+22/02/06 19:54:02 INFO Kafka Producer Demo: Sending message to Kafka topic: 20
+22/02/06 19:54:02 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '20', 'transaction_card_type': 'MasterCard', 'transaction_amount': 321.5, 'transaction_datetime': '2022-02-06 19:54:02'}
+22/02/06 19:54:03 INFO Kafka Producer Demo: Sending message to Kafka topic: 21
+22/02/06 19:54:03 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '21', 'transaction_card_type': 'Visa', 'transaction_amount': 245.06, 'transaction_datetime': '2022-02-06 19:54:03'}
+22/02/06 19:54:04 INFO Kafka Producer Demo: Sending message to Kafka topic: 22
+22/02/06 19:54:04 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '22', 'transaction_card_type': 'Maestro', 'transaction_amount': 298.87, 'transaction_datetime': '2022-02-06 19:54:04'}
+22/02/06 19:54:05 INFO Kafka Producer Demo: Sending message to Kafka topic: 23
+22/02/06 19:54:05 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '23', 'transaction_card_type': 'Visa', 'transaction_amount': 137.95, 'transaction_datetime': '2022-02-06 19:54:05'}
+22/02/06 19:54:06 INFO Kafka Producer Demo: Sending message to Kafka topic: 24
+22/02/06 19:54:06 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '24', 'transaction_card_type': 'Visa', 'transaction_amount': 537.6, 'transaction_datetime': '2022-02-06 19:54:06'}
+22/02/06 19:54:07 INFO Kafka Producer Demo: Sending message to Kafka topic: 25
+22/02/06 19:54:07 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '25', 'transaction_card_type': 'Visa', 'transaction_amount': 534.97, 'transaction_datetime': '2022-02-06 19:54:07'}
+22/02/06 19:54:08 INFO Kafka Producer Demo: Sending message to Kafka topic: 26
+22/02/06 19:54:08 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '26', 'transaction_card_type': 'MasterCard', 'transaction_amount': 240.02, 'transaction_datetime': '2022-02-06 19:54:08'}
+22/02/06 19:54:09 INFO Kafka Producer Demo: Sending message to Kafka topic: 27
+22/02/06 19:54:09 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '27', 'transaction_card_type': 'MasterCard', 'transaction_amount': 408.82, 'transaction_datetime': '2022-02-06 19:54:09'}
+22/02/06 19:54:10 INFO Kafka Producer Demo: Sending message to Kafka topic: 28
+22/02/06 19:54:10 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '28', 'transaction_card_type': 'Visa', 'transaction_amount': 546.36, 'transaction_datetime': '2022-02-06 19:54:10'}
+22/02/06 19:54:11 INFO Kafka Producer Demo: Sending message to Kafka topic: 29
+22/02/06 19:54:11 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '29', 'transaction_card_type': 'Maestro', 'transaction_amount': 271.94, 'transaction_datetime': '2022-02-06 19:54:11'}
+22/02/06 19:54:12 INFO Kafka Producer Demo: Sending message to Kafka topic: 30
+22/02/06 19:54:12 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '30', 'transaction_card_type': 'Maestro', 'transaction_amount': 180.31, 'transaction_datetime': '2022-02-06 19:54:12'}
+22/02/06 19:54:13 INFO Kafka Producer Demo: Sending message to Kafka topic: 31
+22/02/06 19:54:13 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '31', 'transaction_card_type': 'MasterCard', 'transaction_amount': 33.73, 'transaction_datetime': '2022-02-06 19:54:13'}
+22/02/06 19:54:14 INFO Kafka Producer Demo: Sending message to Kafka topic: 32
+22/02/06 19:54:14 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '32', 'transaction_card_type': 'Visa', 'transaction_amount': 82.42, 'transaction_datetime': '2022-02-06 19:54:14'}
+22/02/06 19:54:15 INFO PySpark Structured Streaming with Kafka Demo: PySpark Structured Streaming with Kafka Demo Application Started ...
+22/02/06 19:54:15 INFO PySpark Structured Streaming with Kafka Demo: Reading parameters from property file
+22/02/06 19:54:15 INFO PySpark Structured Streaming with Kafka Demo: Reading parameters from property file completed successfully
+22/02/06 19:54:15 INFO PySpark Structured Streaming with Kafka Demo: Reading data from Kafka topic and creating DataFrame.
+22/02/06 19:54:15 INFO PySpark Structured Streaming with Kafka Demo: Reading from Kafka topic testtopic
+22/02/06 19:54:15 INFO Kafka Producer Demo: Sending message to Kafka topic: 33
+22/02/06 19:54:15 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '33', 'transaction_card_type': 'Visa', 'transaction_amount': 531.71, 'transaction_datetime': '2022-02-06 19:54:15'}
+22/02/06 19:54:16 INFO Kafka Producer Demo: Sending message to Kafka topic: 34
+22/02/06 19:54:16 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '34', 'transaction_card_type': 'Visa', 'transaction_amount': 107.49, 'transaction_datetime': '2022-02-06 19:54:16'}
+22/02/06 19:54:17 INFO Kafka Producer Demo: Sending message to Kafka topic: 35
+22/02/06 19:54:17 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '35', 'transaction_card_type': 'Maestro', 'transaction_amount': 341.05, 'transaction_datetime': '2022-02-06 19:54:17'}
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Reading stream as a dataframe completed successfully.
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Defining schema for stream transformation.
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Transforming stream dataframe started.
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Stream transformation started.
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Printing Schema of transaction_detail_df4: 
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: 
+22/02/06 19:54:18 INFO Kafka Producer Demo: Sending message to Kafka topic: 36
+22/02/06 19:54:18 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '36', 'transaction_card_type': 'MasterCard', 'transaction_amount': 236.27, 'transaction_datetime': '2022-02-06 19:54:18'}
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Printing Schema of transaction_detail_df5: 
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: 
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Transforming stream dataframe completed successfully.
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Write final result into console for debugging purpose
+22/02/06 19:54:18 INFO PySpark Structured Streaming with Kafka Demo: Write final result into console for debugging purpose
+22/02/06 19:54:19 INFO Kafka Producer Demo: Sending message to Kafka topic: 37
+22/02/06 19:54:19 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '37', 'transaction_card_type': 'Visa', 'transaction_amount': 136.52, 'transaction_datetime': '2022-02-06 19:54:19'}
+22/02/06 19:54:20 INFO PySpark Structured Streaming with Kafka Demo: Writing DataFrame to a specific Kafka topic specified in an option.
+22/02/06 19:54:20 INFO PySpark Structured Streaming with Kafka Demo: Writing Dataframe stream to File sink.
+22/02/06 19:54:20 INFO PySpark Structured Streaming with Kafka Demo: Stream file sink transformation started.
+22/02/06 19:54:20 INFO Kafka Producer Demo: Sending message to Kafka topic: 38
+22/02/06 19:54:20 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '38', 'transaction_card_type': 'Visa', 'transaction_amount': 239.31, 'transaction_datetime': '2022-02-06 19:54:20'}
+22/02/06 19:54:20 INFO PySpark Structured Streaming with Kafka Demo: Write final result into file in JSON format
+22/02/06 19:54:21 INFO Kafka Producer Demo: Sending message to Kafka topic: 39
+22/02/06 19:54:21 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '39', 'transaction_card_type': 'MasterCard', 'transaction_amount': 34.36, 'transaction_datetime': '2022-02-06 19:54:21'}
+22/02/06 19:54:22 INFO Kafka Producer Demo: Sending message to Kafka topic: 40
+22/02/06 19:54:22 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '40', 'transaction_card_type': 'MasterCard', 'transaction_amount': 242.94, 'transaction_datetime': '2022-02-06 19:54:22'}
+22/02/06 19:54:23 INFO Kafka Producer Demo: Sending message to Kafka topic: 41
+22/02/06 19:54:23 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '41', 'transaction_card_type': 'MasterCard', 'transaction_amount': 540.6, 'transaction_datetime': '2022-02-06 19:54:23'}
+22/02/06 19:54:24 INFO Kafka Producer Demo: Sending message to Kafka topic: 42
+22/02/06 19:54:24 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '42', 'transaction_card_type': 'Visa', 'transaction_amount': 335.13, 'transaction_datetime': '2022-02-06 19:54:24'}
+22/02/06 19:54:25 INFO Kafka Producer Demo: Sending message to Kafka topic: 43
+22/02/06 19:54:25 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '43', 'transaction_card_type': 'Visa', 'transaction_amount': 551.73, 'transaction_datetime': '2022-02-06 19:54:25'}
+22/02/06 19:54:26 INFO Kafka Producer Demo: Sending message to Kafka topic: 44
+22/02/06 19:54:26 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '44', 'transaction_card_type': 'MasterCard', 'transaction_amount': 355.87, 'transaction_datetime': '2022-02-06 19:54:26'}
+22/02/06 19:54:28 INFO Kafka Producer Demo: Sending message to Kafka topic: 45
+22/02/06 19:54:28 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '45', 'transaction_card_type': 'MasterCard', 'transaction_amount': 122.21, 'transaction_datetime': '2022-02-06 19:54:28'}
+22/02/06 19:54:29 INFO Kafka Producer Demo: Sending message to Kafka topic: 46
+22/02/06 19:54:29 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '46', 'transaction_card_type': 'MasterCard', 'transaction_amount': 187.87, 'transaction_datetime': '2022-02-06 19:54:29'}
+22/02/06 19:54:30 INFO Kafka Producer Demo: Sending message to Kafka topic: 47
+22/02/06 19:54:30 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '47', 'transaction_card_type': 'MasterCard', 'transaction_amount': 325.65, 'transaction_datetime': '2022-02-06 19:54:30'}
+22/02/06 19:54:31 INFO Kafka Producer Demo: Sending message to Kafka topic: 48
+22/02/06 19:54:31 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '48', 'transaction_card_type': 'MasterCard', 'transaction_amount': 386.14, 'transaction_datetime': '2022-02-06 19:54:31'}
+22/02/06 19:54:32 INFO Kafka Producer Demo: Sending message to Kafka topic: 49
+22/02/06 19:54:32 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '49', 'transaction_card_type': 'Maestro', 'transaction_amount': 119.95, 'transaction_datetime': '2022-02-06 19:54:32'}
+22/02/06 19:54:33 INFO Kafka Producer Demo: Sending message to Kafka topic: 50
+22/02/06 19:54:33 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '50', 'transaction_card_type': 'Visa', 'transaction_amount': 139.96, 'transaction_datetime': '2022-02-06 19:54:33'}
+22/02/06 19:54:34 INFO Kafka Producer Demo: Sending message to Kafka topic: 51
+22/02/06 19:54:34 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '51', 'transaction_card_type': 'Visa', 'transaction_amount': 193.06, 'transaction_datetime': '2022-02-06 19:54:34'}
+22/02/06 19:54:35 INFO Kafka Producer Demo: Sending message to Kafka topic: 52
+22/02/06 19:54:35 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '52', 'transaction_card_type': 'MasterCard', 'transaction_amount': 84.04, 'transaction_datetime': '2022-02-06 19:54:35'}
+22/02/06 19:54:36 INFO Kafka Producer Demo: Sending message to Kafka topic: 53
+22/02/06 19:54:36 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '53', 'transaction_card_type': 'Maestro', 'transaction_amount': 472.86, 'transaction_datetime': '2022-02-06 19:54:36'}
+22/02/06 19:54:37 INFO Kafka Producer Demo: Sending message to Kafka topic: 54
+22/02/06 19:54:37 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '54', 'transaction_card_type': 'Maestro', 'transaction_amount': 12.63, 'transaction_datetime': '2022-02-06 19:54:37'}
+22/02/06 19:54:38 INFO Kafka Producer Demo: Sending message to Kafka topic: 55
+22/02/06 19:54:38 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '55', 'transaction_card_type': 'MasterCard', 'transaction_amount': 529.86, 'transaction_datetime': '2022-02-06 19:54:38'}
+22/02/06 19:54:39 INFO Kafka Producer Demo: Sending message to Kafka topic: 56
+22/02/06 19:54:39 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '56', 'transaction_card_type': 'Visa', 'transaction_amount': 109.44, 'transaction_datetime': '2022-02-06 19:54:39'}
+22/02/06 19:54:40 INFO Kafka Producer Demo: Sending message to Kafka topic: 57
+22/02/06 19:54:40 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '57', 'transaction_card_type': 'MasterCard', 'transaction_amount': 473.02, 'transaction_datetime': '2022-02-06 19:54:40'}
+22/02/06 19:54:41 INFO Kafka Producer Demo: Sending message to Kafka topic: 58
+22/02/06 19:54:41 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '58', 'transaction_card_type': 'Visa', 'transaction_amount': 68.54, 'transaction_datetime': '2022-02-06 19:54:41'}
+22/02/06 19:54:42 INFO Kafka Producer Demo: Sending message to Kafka topic: 59
+22/02/06 19:54:42 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '59', 'transaction_card_type': 'Maestro', 'transaction_amount': 248.34, 'transaction_datetime': '2022-02-06 19:54:42'}
+22/02/06 19:54:43 INFO Kafka Producer Demo: Sending message to Kafka topic: 60
+22/02/06 19:54:43 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '60', 'transaction_card_type': 'Visa', 'transaction_amount': 538.3, 'transaction_datetime': '2022-02-06 19:54:43'}
+22/02/06 19:54:44 INFO Kafka Producer Demo: Sending message to Kafka topic: 61
+22/02/06 19:54:44 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '61', 'transaction_card_type': 'Maestro', 'transaction_amount': 324.11, 'transaction_datetime': '2022-02-06 19:54:44'}
+22/02/06 19:54:45 INFO Kafka Producer Demo: Sending message to Kafka topic: 62
+22/02/06 19:54:45 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '62', 'transaction_card_type': 'Maestro', 'transaction_amount': 339.42, 'transaction_datetime': '2022-02-06 19:54:45'}
+22/02/06 19:54:46 INFO Kafka Producer Demo: Sending message to Kafka topic: 63
+22/02/06 19:54:46 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '63', 'transaction_card_type': 'Maestro', 'transaction_amount': 183.26, 'transaction_datetime': '2022-02-06 19:54:46'}
+22/02/06 19:54:47 INFO Kafka Producer Demo: Sending message to Kafka topic: 64
+22/02/06 19:54:47 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '64', 'transaction_card_type': 'Visa', 'transaction_amount': 86.49, 'transaction_datetime': '2022-02-06 19:54:47'}
+22/02/06 19:54:48 INFO Kafka Producer Demo: Sending message to Kafka topic: 65
+22/02/06 19:54:48 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '65', 'transaction_card_type': 'MasterCard', 'transaction_amount': 237.8, 'transaction_datetime': '2022-02-06 19:54:48'}
+22/02/06 19:54:49 INFO Kafka Producer Demo: Sending message to Kafka topic: 66
+22/02/06 19:54:49 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '66', 'transaction_card_type': 'Maestro', 'transaction_amount': 329.97, 'transaction_datetime': '2022-02-06 19:54:49'}
+22/02/06 19:54:50 INFO Kafka Producer Demo: Sending message to Kafka topic: 67
+22/02/06 19:54:50 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '67', 'transaction_card_type': 'MasterCard', 'transaction_amount': 22.61, 'transaction_datetime': '2022-02-06 19:54:50'}
+22/02/06 19:54:51 INFO Kafka Producer Demo: Sending message to Kafka topic: 68
+22/02/06 19:54:51 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '68', 'transaction_card_type': 'Maestro', 'transaction_amount': 219.83, 'transaction_datetime': '2022-02-06 19:54:51'}
+22/02/06 19:54:52 INFO Kafka Producer Demo: Sending message to Kafka topic: 69
+22/02/06 19:54:52 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '69', 'transaction_card_type': 'MasterCard', 'transaction_amount': 252.97, 'transaction_datetime': '2022-02-06 19:54:52'}
+22/02/06 19:54:53 INFO Kafka Producer Demo: Sending message to Kafka topic: 70
+22/02/06 19:54:53 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '70', 'transaction_card_type': 'Maestro', 'transaction_amount': 235.5, 'transaction_datetime': '2022-02-06 19:54:53'}
+22/02/06 19:54:54 INFO Kafka Producer Demo: Sending message to Kafka topic: 71
+22/02/06 19:54:54 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '71', 'transaction_card_type': 'Visa', 'transaction_amount': 241.34, 'transaction_datetime': '2022-02-06 19:54:54'}
+22/02/06 19:54:55 INFO Kafka Producer Demo: Sending message to Kafka topic: 72
+22/02/06 19:54:55 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '72', 'transaction_card_type': 'Maestro', 'transaction_amount': 417.41, 'transaction_datetime': '2022-02-06 19:54:55'}
+22/02/06 19:54:56 INFO Kafka Producer Demo: Sending message to Kafka topic: 73
+22/02/06 19:54:56 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '73', 'transaction_card_type': 'Visa', 'transaction_amount': 94.24, 'transaction_datetime': '2022-02-06 19:54:56'}
+22/02/06 19:54:57 INFO Kafka Producer Demo: Sending message to Kafka topic: 74
+22/02/06 19:54:57 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '74', 'transaction_card_type': 'Visa', 'transaction_amount': 534.0, 'transaction_datetime': '2022-02-06 19:54:57'}
+22/02/06 19:54:58 INFO Kafka Producer Demo: Sending message to Kafka topic: 75
+22/02/06 19:54:58 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '75', 'transaction_card_type': 'Maestro', 'transaction_amount': 69.7, 'transaction_datetime': '2022-02-06 19:54:58'}
+22/02/06 19:54:59 INFO Kafka Producer Demo: Sending message to Kafka topic: 76
+22/02/06 19:54:59 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '76', 'transaction_card_type': 'MasterCard', 'transaction_amount': 548.16, 'transaction_datetime': '2022-02-06 19:54:59'}
+22/02/06 19:55:00 INFO Kafka Producer Demo: Sending message to Kafka topic: 77
+22/02/06 19:55:00 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '77', 'transaction_card_type': 'Visa', 'transaction_amount': 378.34, 'transaction_datetime': '2022-02-06 19:55:00'}
+22/02/06 19:55:01 INFO Kafka Producer Demo: Sending message to Kafka topic: 78
+22/02/06 19:55:01 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '78', 'transaction_card_type': 'Maestro', 'transaction_amount': 372.53, 'transaction_datetime': '2022-02-06 19:55:01'}
+22/02/06 19:55:02 INFO Kafka Producer Demo: Sending message to Kafka topic: 79
+22/02/06 19:55:02 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '79', 'transaction_card_type': 'Visa', 'transaction_amount': 132.38, 'transaction_datetime': '2022-02-06 19:55:02'}
+22/02/06 19:55:03 INFO Kafka Producer Demo: Sending message to Kafka topic: 80
+22/02/06 19:55:03 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '80', 'transaction_card_type': 'MasterCard', 'transaction_amount': 29.26, 'transaction_datetime': '2022-02-06 19:55:03'}
+22/02/06 19:55:04 INFO Kafka Producer Demo: Sending message to Kafka topic: 81
+22/02/06 19:55:04 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '81', 'transaction_card_type': 'MasterCard', 'transaction_amount': 498.47, 'transaction_datetime': '2022-02-06 19:55:04'}
+22/02/06 19:55:05 INFO Kafka Producer Demo: Sending message to Kafka topic: 82
+22/02/06 19:55:05 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '82', 'transaction_card_type': 'MasterCard', 'transaction_amount': 553.94, 'transaction_datetime': '2022-02-06 19:55:05'}
+22/02/06 19:55:06 INFO Kafka Producer Demo: Sending message to Kafka topic: 83
+22/02/06 19:55:06 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '83', 'transaction_card_type': 'MasterCard', 'transaction_amount': 383.79, 'transaction_datetime': '2022-02-06 19:55:06'}
+22/02/06 19:55:07 INFO Kafka Producer Demo: Sending message to Kafka topic: 84
+22/02/06 19:55:07 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '84', 'transaction_card_type': 'MasterCard', 'transaction_amount': 389.68, 'transaction_datetime': '2022-02-06 19:55:07'}
+22/02/06 19:55:08 INFO Kafka Producer Demo: Sending message to Kafka topic: 85
+22/02/06 19:55:08 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '85', 'transaction_card_type': 'Maestro', 'transaction_amount': 170.26, 'transaction_datetime': '2022-02-06 19:55:08'}
+22/02/06 19:55:09 INFO Kafka Producer Demo: Sending message to Kafka topic: 86
+22/02/06 19:55:09 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '86', 'transaction_card_type': 'Visa', 'transaction_amount': 125.0, 'transaction_datetime': '2022-02-06 19:55:09'}
+22/02/06 19:55:10 INFO Kafka Producer Demo: Sending message to Kafka topic: 87
+22/02/06 19:55:10 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '87', 'transaction_card_type': 'MasterCard', 'transaction_amount': 163.59, 'transaction_datetime': '2022-02-06 19:55:10'}
+22/02/06 19:55:11 INFO Kafka Producer Demo: Sending message to Kafka topic: 88
+22/02/06 19:55:11 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '88', 'transaction_card_type': 'Maestro', 'transaction_amount': 271.07, 'transaction_datetime': '2022-02-06 19:55:11'}
+22/02/06 19:55:12 INFO Kafka Producer Demo: Sending message to Kafka topic: 89
+22/02/06 19:55:12 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '89', 'transaction_card_type': 'MasterCard', 'transaction_amount': 440.53, 'transaction_datetime': '2022-02-06 19:55:12'}
+22/02/06 19:55:13 INFO Kafka Producer Demo: Sending message to Kafka topic: 90
+22/02/06 19:55:13 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '90', 'transaction_card_type': 'MasterCard', 'transaction_amount': 171.01, 'transaction_datetime': '2022-02-06 19:55:13'}
+22/02/06 19:55:14 INFO Kafka Producer Demo: Sending message to Kafka topic: 91
+22/02/06 19:55:14 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '91', 'transaction_card_type': 'Maestro', 'transaction_amount': 286.58, 'transaction_datetime': '2022-02-06 19:55:14'}
+22/02/06 19:55:15 INFO Kafka Producer Demo: Sending message to Kafka topic: 92
+22/02/06 19:55:15 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '92', 'transaction_card_type': 'MasterCard', 'transaction_amount': 513.96, 'transaction_datetime': '2022-02-06 19:55:15'}
+22/02/06 19:55:16 INFO Kafka Producer Demo: Sending message to Kafka topic: 93
+22/02/06 19:55:16 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '93', 'transaction_card_type': 'Maestro', 'transaction_amount': 294.56, 'transaction_datetime': '2022-02-06 19:55:16'}
+22/02/06 19:55:17 INFO Kafka Producer Demo: Sending message to Kafka topic: 94
+22/02/06 19:55:17 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '94', 'transaction_card_type': 'Visa', 'transaction_amount': 396.1, 'transaction_datetime': '2022-02-06 19:55:17'}
+22/02/06 19:55:18 INFO Kafka Producer Demo: Sending message to Kafka topic: 95
+22/02/06 19:55:18 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '95', 'transaction_card_type': 'Maestro', 'transaction_amount': 100.89, 'transaction_datetime': '2022-02-06 19:55:18'}
+22/02/06 19:55:19 INFO Kafka Producer Demo: Sending message to Kafka topic: 96
+22/02/06 19:55:19 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '96', 'transaction_card_type': 'MasterCard', 'transaction_amount': 296.14, 'transaction_datetime': '2022-02-06 19:55:19'}
+22/02/06 19:55:20 INFO Kafka Producer Demo: Sending message to Kafka topic: 97
+22/02/06 19:55:20 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '97', 'transaction_card_type': 'Maestro', 'transaction_amount': 226.24, 'transaction_datetime': '2022-02-06 19:55:20'}
+22/02/06 19:55:21 INFO Kafka Producer Demo: Sending message to Kafka topic: 98
+22/02/06 19:55:21 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '98', 'transaction_card_type': 'Visa', 'transaction_amount': 543.51, 'transaction_datetime': '2022-02-06 19:55:21'}
+22/02/06 19:55:22 INFO Kafka Producer Demo: Sending message to Kafka topic: 99
+22/02/06 19:55:22 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '99', 'transaction_card_type': 'MasterCard', 'transaction_amount': 503.64, 'transaction_datetime': '2022-02-06 19:55:22'}
+22/02/06 19:55:23 INFO Kafka Producer Demo: Sending message to Kafka topic: 100
+22/02/06 19:55:23 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '100', 'transaction_card_type': 'MasterCard', 'transaction_amount': 463.31, 'transaction_datetime': '2022-02-06 19:55:23'}
+22/02/06 19:55:24 INFO Kafka Producer Demo: Sending message to Kafka topic: 101
+22/02/06 19:55:24 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '101', 'transaction_card_type': 'MasterCard', 'transaction_amount': 218.66, 'transaction_datetime': '2022-02-06 19:55:24'}
+22/02/06 19:55:25 INFO Kafka Producer Demo: Sending message to Kafka topic: 102
+22/02/06 19:55:25 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '102', 'transaction_card_type': 'Maestro', 'transaction_amount': 337.96, 'transaction_datetime': '2022-02-06 19:55:25'}
+22/02/06 19:55:26 INFO Kafka Producer Demo: Sending message to Kafka topic: 103
+22/02/06 19:55:26 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '103', 'transaction_card_type': 'MasterCard', 'transaction_amount': 64.95, 'transaction_datetime': '2022-02-06 19:55:26'}
+22/02/06 19:55:27 INFO Kafka Producer Demo: Sending message to Kafka topic: 104
+22/02/06 19:55:27 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '104', 'transaction_card_type': 'Visa', 'transaction_amount': 153.92, 'transaction_datetime': '2022-02-06 19:55:27'}
+22/02/06 19:55:28 INFO Kafka Producer Demo: Sending message to Kafka topic: 105
+22/02/06 19:55:28 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '105', 'transaction_card_type': 'Maestro', 'transaction_amount': 257.18, 'transaction_datetime': '2022-02-06 19:55:28'}
+22/02/06 19:55:29 INFO Kafka Producer Demo: Sending message to Kafka topic: 106
+22/02/06 19:55:29 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '106', 'transaction_card_type': 'Maestro', 'transaction_amount': 400.53, 'transaction_datetime': '2022-02-06 19:55:29'}
+22/02/06 19:55:30 INFO Kafka Producer Demo: Sending message to Kafka topic: 107
+22/02/06 19:55:30 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '107', 'transaction_card_type': 'Maestro', 'transaction_amount': 347.88, 'transaction_datetime': '2022-02-06 19:55:30'}
+22/02/06 19:55:31 INFO Kafka Producer Demo: Sending message to Kafka topic: 108
+22/02/06 19:55:31 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '108', 'transaction_card_type': 'Maestro', 'transaction_amount': 449.03, 'transaction_datetime': '2022-02-06 19:55:31'}
+22/02/06 19:55:32 INFO Kafka Producer Demo: Sending message to Kafka topic: 109
+22/02/06 19:55:32 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '109', 'transaction_card_type': 'Visa', 'transaction_amount': 263.97, 'transaction_datetime': '2022-02-06 19:55:32'}
+22/02/06 19:55:33 INFO Kafka Producer Demo: Sending message to Kafka topic: 110
+22/02/06 19:55:33 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '110', 'transaction_card_type': 'Visa', 'transaction_amount': 144.57, 'transaction_datetime': '2022-02-06 19:55:33'}
+22/02/06 19:55:34 INFO Kafka Producer Demo: Sending message to Kafka topic: 111
+22/02/06 19:55:34 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '111', 'transaction_card_type': 'Visa', 'transaction_amount': 432.9, 'transaction_datetime': '2022-02-06 19:55:34'}
+22/02/06 19:55:35 INFO Kafka Producer Demo: Sending message to Kafka topic: 112
+22/02/06 19:55:35 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '112', 'transaction_card_type': 'MasterCard', 'transaction_amount': 63.4, 'transaction_datetime': '2022-02-06 19:55:35'}
+22/02/06 19:55:36 INFO Kafka Producer Demo: Sending message to Kafka topic: 113
+22/02/06 19:55:36 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '113', 'transaction_card_type': 'Visa', 'transaction_amount': 206.68, 'transaction_datetime': '2022-02-06 19:55:36'}
+22/02/06 19:55:37 INFO Kafka Producer Demo: Sending message to Kafka topic: 114
+22/02/06 19:55:37 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '114', 'transaction_card_type': 'Visa', 'transaction_amount': 508.45, 'transaction_datetime': '2022-02-06 19:55:37'}
+22/02/06 19:55:38 INFO Kafka Producer Demo: Sending message to Kafka topic: 115
+22/02/06 19:55:38 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '115', 'transaction_card_type': 'Maestro', 'transaction_amount': 325.13, 'transaction_datetime': '2022-02-06 19:55:38'}
+22/02/06 19:55:39 INFO Kafka Producer Demo: Sending message to Kafka topic: 116
+22/02/06 19:55:39 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '116', 'transaction_card_type': 'MasterCard', 'transaction_amount': 516.17, 'transaction_datetime': '2022-02-06 19:55:39'}
+22/02/06 19:55:40 INFO Kafka Producer Demo: Sending message to Kafka topic: 117
+22/02/06 19:55:40 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '117', 'transaction_card_type': 'Visa', 'transaction_amount': 452.27, 'transaction_datetime': '2022-02-06 19:55:40'}
+22/02/06 19:55:41 INFO Kafka Producer Demo: Sending message to Kafka topic: 118
+22/02/06 19:55:41 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '118', 'transaction_card_type': 'MasterCard', 'transaction_amount': 189.38, 'transaction_datetime': '2022-02-06 19:55:41'}
+22/02/06 19:55:42 INFO Kafka Producer Demo: Sending message to Kafka topic: 119
+22/02/06 19:55:42 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '119', 'transaction_card_type': 'Maestro', 'transaction_amount': 506.4, 'transaction_datetime': '2022-02-06 19:55:42'}
+22/02/06 19:55:43 INFO Kafka Producer Demo: Sending message to Kafka topic: 120
+22/02/06 19:55:43 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '120', 'transaction_card_type': 'Maestro', 'transaction_amount': 153.47, 'transaction_datetime': '2022-02-06 19:55:43'}
+22/02/06 19:55:44 INFO Kafka Producer Demo: Sending message to Kafka topic: 121
+22/02/06 19:55:44 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '121', 'transaction_card_type': 'Maestro', 'transaction_amount': 46.79, 'transaction_datetime': '2022-02-06 19:55:44'}
+22/02/06 19:55:45 INFO Kafka Producer Demo: Sending message to Kafka topic: 122
+22/02/06 19:55:45 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '122', 'transaction_card_type': 'Visa', 'transaction_amount': 120.42, 'transaction_datetime': '2022-02-06 19:55:45'}
+22/02/06 19:55:46 INFO Kafka Producer Demo: Sending message to Kafka topic: 123
+22/02/06 19:55:46 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '123', 'transaction_card_type': 'Visa', 'transaction_amount': 40.32, 'transaction_datetime': '2022-02-06 19:55:46'}
+22/02/06 19:55:47 INFO Kafka Producer Demo: Sending message to Kafka topic: 124
+22/02/06 19:55:47 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '124', 'transaction_card_type': 'MasterCard', 'transaction_amount': 434.1, 'transaction_datetime': '2022-02-06 19:55:47'}
+22/02/06 19:55:48 INFO Kafka Producer Demo: Sending message to Kafka topic: 125
+22/02/06 19:55:48 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '125', 'transaction_card_type': 'Visa', 'transaction_amount': 112.55, 'transaction_datetime': '2022-02-06 19:55:48'}
+22/02/06 19:55:49 INFO Kafka Producer Demo: Sending message to Kafka topic: 126
+22/02/06 19:55:49 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '126', 'transaction_card_type': 'Maestro', 'transaction_amount': 326.14, 'transaction_datetime': '2022-02-06 19:55:49'}
+22/02/06 19:55:50 INFO Kafka Producer Demo: Sending message to Kafka topic: 127
+22/02/06 19:55:50 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '127', 'transaction_card_type': 'Maestro', 'transaction_amount': 324.38, 'transaction_datetime': '2022-02-06 19:55:50'}
+22/02/06 19:55:51 INFO Kafka Producer Demo: Sending message to Kafka topic: 128
+22/02/06 19:55:51 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '128', 'transaction_card_type': 'Visa', 'transaction_amount': 329.64, 'transaction_datetime': '2022-02-06 19:55:51'}
+22/02/06 19:55:52 INFO Kafka Producer Demo: Sending message to Kafka topic: 129
+22/02/06 19:55:52 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '129', 'transaction_card_type': 'Visa', 'transaction_amount': 172.05, 'transaction_datetime': '2022-02-06 19:55:52'}
+22/02/06 19:55:53 INFO Kafka Producer Demo: Sending message to Kafka topic: 130
+22/02/06 19:55:53 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '130', 'transaction_card_type': 'Maestro', 'transaction_amount': 78.17, 'transaction_datetime': '2022-02-06 19:55:53'}
+22/02/06 19:55:54 INFO Kafka Producer Demo: Sending message to Kafka topic: 131
+22/02/06 19:55:54 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '131', 'transaction_card_type': 'MasterCard', 'transaction_amount': 332.49, 'transaction_datetime': '2022-02-06 19:55:54'}
+22/02/06 19:55:55 INFO Kafka Producer Demo: Sending message to Kafka topic: 132
+22/02/06 19:55:55 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '132', 'transaction_card_type': 'Maestro', 'transaction_amount': 519.55, 'transaction_datetime': '2022-02-06 19:55:55'}
+22/02/06 19:55:56 INFO Kafka Producer Demo: Sending message to Kafka topic: 133
+22/02/06 19:55:56 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '133', 'transaction_card_type': 'Maestro', 'transaction_amount': 22.3, 'transaction_datetime': '2022-02-06 19:55:56'}
+22/02/06 19:55:57 INFO Kafka Producer Demo: Sending message to Kafka topic: 134
+22/02/06 19:55:57 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '134', 'transaction_card_type': 'Maestro', 'transaction_amount': 191.4, 'transaction_datetime': '2022-02-06 19:55:57'}
+22/02/06 19:55:58 INFO Kafka Producer Demo: Sending message to Kafka topic: 135
+22/02/06 19:55:58 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '135', 'transaction_card_type': 'MasterCard', 'transaction_amount': 229.06, 'transaction_datetime': '2022-02-06 19:55:58'}
+22/02/06 19:55:59 INFO Kafka Producer Demo: Sending message to Kafka topic: 136
+22/02/06 19:55:59 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '136', 'transaction_card_type': 'MasterCard', 'transaction_amount': 380.08, 'transaction_datetime': '2022-02-06 19:55:59'}
+22/02/06 19:56:00 INFO Kafka Producer Demo: Sending message to Kafka topic: 137
+22/02/06 19:56:00 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '137', 'transaction_card_type': 'Maestro', 'transaction_amount': 444.1, 'transaction_datetime': '2022-02-06 19:56:00'}
+22/02/06 19:56:01 INFO Kafka Producer Demo: Sending message to Kafka topic: 138
+22/02/06 19:56:01 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '138', 'transaction_card_type': 'MasterCard', 'transaction_amount': 219.24, 'transaction_datetime': '2022-02-06 19:56:01'}
+22/02/06 19:56:02 INFO Kafka Producer Demo: Sending message to Kafka topic: 139
+22/02/06 19:56:02 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '139', 'transaction_card_type': 'Maestro', 'transaction_amount': 202.42, 'transaction_datetime': '2022-02-06 19:56:02'}
+22/02/06 19:56:03 INFO Kafka Producer Demo: Sending message to Kafka topic: 140
+22/02/06 19:56:03 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '140', 'transaction_card_type': 'MasterCard', 'transaction_amount': 33.52, 'transaction_datetime': '2022-02-06 19:56:03'}
+22/02/06 19:56:04 INFO Kafka Producer Demo: Sending message to Kafka topic: 141
+22/02/06 19:56:04 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '141', 'transaction_card_type': 'MasterCard', 'transaction_amount': 429.12, 'transaction_datetime': '2022-02-06 19:56:04'}
+22/02/06 19:56:05 INFO Kafka Producer Demo: Sending message to Kafka topic: 142
+22/02/06 19:56:05 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '142', 'transaction_card_type': 'MasterCard', 'transaction_amount': 292.08, 'transaction_datetime': '2022-02-06 19:56:05'}
+22/02/06 19:56:06 INFO Kafka Producer Demo: Sending message to Kafka topic: 143
+22/02/06 19:56:06 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '143', 'transaction_card_type': 'MasterCard', 'transaction_amount': 44.14, 'transaction_datetime': '2022-02-06 19:56:06'}
+22/02/06 19:56:07 INFO Kafka Producer Demo: Sending message to Kafka topic: 144
+22/02/06 19:56:07 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '144', 'transaction_card_type': 'Maestro', 'transaction_amount': 256.0, 'transaction_datetime': '2022-02-06 19:56:07'}
+22/02/06 19:56:08 INFO Kafka Producer Demo: Sending message to Kafka topic: 145
+22/02/06 19:56:08 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '145', 'transaction_card_type': 'Visa', 'transaction_amount': 52.13, 'transaction_datetime': '2022-02-06 19:56:08'}
+22/02/06 19:56:09 INFO Kafka Producer Demo: Sending message to Kafka topic: 146
+22/02/06 19:56:09 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '146', 'transaction_card_type': 'Visa', 'transaction_amount': 213.72, 'transaction_datetime': '2022-02-06 19:56:09'}
+22/02/06 19:56:10 INFO Kafka Producer Demo: Sending message to Kafka topic: 147
+22/02/06 19:56:10 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '147', 'transaction_card_type': 'MasterCard', 'transaction_amount': 209.51, 'transaction_datetime': '2022-02-06 19:56:10'}
+22/02/06 19:56:11 INFO Kafka Producer Demo: Sending message to Kafka topic: 148
+22/02/06 19:56:11 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '148', 'transaction_card_type': 'Maestro', 'transaction_amount': 29.35, 'transaction_datetime': '2022-02-06 19:56:11'}
+22/02/06 19:56:12 INFO Kafka Producer Demo: Sending message to Kafka topic: 149
+22/02/06 19:56:12 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '149', 'transaction_card_type': 'Maestro', 'transaction_amount': 131.26, 'transaction_datetime': '2022-02-06 19:56:12'}
+22/02/06 19:56:13 INFO Kafka Producer Demo: Sending message to Kafka topic: 150
+22/02/06 19:56:13 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '150', 'transaction_card_type': 'Maestro', 'transaction_amount': 140.08, 'transaction_datetime': '2022-02-06 19:56:13'}
+22/02/06 19:56:14 INFO Kafka Producer Demo: Sending message to Kafka topic: 151
+22/02/06 19:56:14 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '151', 'transaction_card_type': 'Maestro', 'transaction_amount': 268.71, 'transaction_datetime': '2022-02-06 19:56:14'}
+22/02/06 19:56:16 INFO Kafka Producer Demo: Sending message to Kafka topic: 152
+22/02/06 19:56:16 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '152', 'transaction_card_type': 'Maestro', 'transaction_amount': 515.54, 'transaction_datetime': '2022-02-06 19:56:16'}
+22/02/06 19:56:17 INFO Kafka Producer Demo: Sending message to Kafka topic: 153
+22/02/06 19:56:17 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '153', 'transaction_card_type': 'Visa', 'transaction_amount': 44.7, 'transaction_datetime': '2022-02-06 19:56:17'}
+22/02/06 19:56:18 INFO Kafka Producer Demo: Sending message to Kafka topic: 154
+22/02/06 19:56:18 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '154', 'transaction_card_type': 'Visa', 'transaction_amount': 403.44, 'transaction_datetime': '2022-02-06 19:56:18'}
+22/02/06 19:56:19 INFO Kafka Producer Demo: Sending message to Kafka topic: 155
+22/02/06 19:56:19 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '155', 'transaction_card_type': 'Maestro', 'transaction_amount': 48.24, 'transaction_datetime': '2022-02-06 19:56:19'}
+22/02/06 19:56:20 INFO Kafka Producer Demo: Sending message to Kafka topic: 156
+22/02/06 19:56:20 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '156', 'transaction_card_type': 'MasterCard', 'transaction_amount': 173.36, 'transaction_datetime': '2022-02-06 19:56:20'}
+22/02/06 19:56:21 INFO Kafka Producer Demo: Sending message to Kafka topic: 157
+22/02/06 19:56:21 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '157', 'transaction_card_type': 'Visa', 'transaction_amount': 105.22, 'transaction_datetime': '2022-02-06 19:56:21'}
+22/02/06 19:56:22 INFO Kafka Producer Demo: Sending message to Kafka topic: 158
+22/02/06 19:56:22 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '158', 'transaction_card_type': 'MasterCard', 'transaction_amount': 115.08, 'transaction_datetime': '2022-02-06 19:56:22'}
+22/02/06 19:56:23 INFO Kafka Producer Demo: Sending message to Kafka topic: 159
+22/02/06 19:56:23 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '159', 'transaction_card_type': 'Visa', 'transaction_amount': 547.94, 'transaction_datetime': '2022-02-06 19:56:23'}
+22/02/06 19:56:24 INFO Kafka Producer Demo: Sending message to Kafka topic: 160
+22/02/06 19:56:24 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '160', 'transaction_card_type': 'Visa', 'transaction_amount': 40.18, 'transaction_datetime': '2022-02-06 19:56:24'}
+22/02/06 19:56:25 INFO Kafka Producer Demo: Sending message to Kafka topic: 161
+22/02/06 19:56:25 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '161', 'transaction_card_type': 'Visa', 'transaction_amount': 444.84, 'transaction_datetime': '2022-02-06 19:56:25'}
+22/02/06 19:56:26 INFO Kafka Producer Demo: Sending message to Kafka topic: 162
+22/02/06 19:56:26 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '162', 'transaction_card_type': 'Maestro', 'transaction_amount': 460.22, 'transaction_datetime': '2022-02-06 19:56:26'}
+22/02/06 19:56:27 INFO Kafka Producer Demo: Sending message to Kafka topic: 163
+22/02/06 19:56:27 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '163', 'transaction_card_type': 'Visa', 'transaction_amount': 377.55, 'transaction_datetime': '2022-02-06 19:56:27'}
+22/02/06 19:56:28 INFO Kafka Producer Demo: Sending message to Kafka topic: 164
+22/02/06 19:56:28 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '164', 'transaction_card_type': 'Visa', 'transaction_amount': 88.07, 'transaction_datetime': '2022-02-06 19:56:28'}
+22/02/06 19:56:29 INFO Kafka Producer Demo: Sending message to Kafka topic: 165
+22/02/06 19:56:29 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '165', 'transaction_card_type': 'MasterCard', 'transaction_amount': 254.8, 'transaction_datetime': '2022-02-06 19:56:29'}
+22/02/06 19:56:30 INFO Kafka Producer Demo: Sending message to Kafka topic: 166
+22/02/06 19:56:30 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '166', 'transaction_card_type': 'Visa', 'transaction_amount': 92.8, 'transaction_datetime': '2022-02-06 19:56:30'}
+22/02/06 19:56:31 INFO Kafka Producer Demo: Sending message to Kafka topic: 167
+22/02/06 19:56:31 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '167', 'transaction_card_type': 'MasterCard', 'transaction_amount': 477.18, 'transaction_datetime': '2022-02-06 19:56:31'}
+22/02/06 19:56:32 INFO Kafka Producer Demo: Sending message to Kafka topic: 168
+22/02/06 19:56:32 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '168', 'transaction_card_type': 'MasterCard', 'transaction_amount': 345.76, 'transaction_datetime': '2022-02-06 19:56:32'}
+22/02/06 19:56:33 INFO Kafka Producer Demo: Sending message to Kafka topic: 169
+22/02/06 19:56:33 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '169', 'transaction_card_type': 'MasterCard', 'transaction_amount': 255.99, 'transaction_datetime': '2022-02-06 19:56:33'}
+22/02/06 19:56:34 INFO Kafka Producer Demo: Sending message to Kafka topic: 170
+22/02/06 19:56:34 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '170', 'transaction_card_type': 'Maestro', 'transaction_amount': 433.0, 'transaction_datetime': '2022-02-06 19:56:34'}
+22/02/06 19:56:35 INFO Kafka Producer Demo: Sending message to Kafka topic: 171
+22/02/06 19:56:35 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '171', 'transaction_card_type': 'Maestro', 'transaction_amount': 222.36, 'transaction_datetime': '2022-02-06 19:56:35'}
+22/02/06 19:56:36 INFO Kafka Producer Demo: Sending message to Kafka topic: 172
+22/02/06 19:56:36 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '172', 'transaction_card_type': 'Maestro', 'transaction_amount': 272.69, 'transaction_datetime': '2022-02-06 19:56:36'}
+22/02/06 19:56:37 INFO Kafka Producer Demo: Sending message to Kafka topic: 173
+22/02/06 19:56:37 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '173', 'transaction_card_type': 'MasterCard', 'transaction_amount': 181.09, 'transaction_datetime': '2022-02-06 19:56:37'}
+22/02/06 19:56:38 INFO Kafka Producer Demo: Sending message to Kafka topic: 174
+22/02/06 19:56:38 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '174', 'transaction_card_type': 'Maestro', 'transaction_amount': 64.37, 'transaction_datetime': '2022-02-06 19:56:38'}
+22/02/06 19:56:39 INFO Kafka Producer Demo: Sending message to Kafka topic: 175
+22/02/06 19:56:39 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '175', 'transaction_card_type': 'Maestro', 'transaction_amount': 525.09, 'transaction_datetime': '2022-02-06 19:56:39'}
+22/02/06 19:56:40 INFO Kafka Producer Demo: Sending message to Kafka topic: 176
+22/02/06 19:56:40 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '176', 'transaction_card_type': 'Visa', 'transaction_amount': 223.34, 'transaction_datetime': '2022-02-06 19:56:40'}
+22/02/06 19:56:41 INFO Kafka Producer Demo: Sending message to Kafka topic: 177
+22/02/06 19:56:41 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '177', 'transaction_card_type': 'Visa', 'transaction_amount': 304.54, 'transaction_datetime': '2022-02-06 19:56:41'}
+22/02/06 19:56:42 INFO Kafka Producer Demo: Sending message to Kafka topic: 178
+22/02/06 19:56:42 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '178', 'transaction_card_type': 'MasterCard', 'transaction_amount': 500.32, 'transaction_datetime': '2022-02-06 19:56:42'}
+22/02/06 19:56:43 INFO Kafka Producer Demo: Sending message to Kafka topic: 179
+22/02/06 19:56:43 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '179', 'transaction_card_type': 'Visa', 'transaction_amount': 348.79, 'transaction_datetime': '2022-02-06 19:56:43'}
+22/02/06 19:56:44 INFO Kafka Producer Demo: Sending message to Kafka topic: 180
+22/02/06 19:56:44 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '180', 'transaction_card_type': 'Maestro', 'transaction_amount': 75.99, 'transaction_datetime': '2022-02-06 19:56:44'}
+22/02/06 19:56:45 INFO Kafka Producer Demo: Sending message to Kafka topic: 181
+22/02/06 19:56:45 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '181', 'transaction_card_type': 'Maestro', 'transaction_amount': 399.34, 'transaction_datetime': '2022-02-06 19:56:45'}
+22/02/06 19:56:46 INFO Kafka Producer Demo: Sending message to Kafka topic: 182
+22/02/06 19:56:46 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '182', 'transaction_card_type': 'MasterCard', 'transaction_amount': 323.39, 'transaction_datetime': '2022-02-06 19:56:46'}
+22/02/06 19:56:47 INFO Kafka Producer Demo: Sending message to Kafka topic: 183
+22/02/06 19:56:47 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '183', 'transaction_card_type': 'Visa', 'transaction_amount': 97.15, 'transaction_datetime': '2022-02-06 19:56:47'}
+22/02/06 19:56:48 INFO Kafka Producer Demo: Sending message to Kafka topic: 184
+22/02/06 19:56:48 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '184', 'transaction_card_type': 'Visa', 'transaction_amount': 114.69, 'transaction_datetime': '2022-02-06 19:56:48'}
+22/02/06 19:56:49 INFO Kafka Producer Demo: Sending message to Kafka topic: 185
+22/02/06 19:56:49 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '185', 'transaction_card_type': 'Maestro', 'transaction_amount': 23.2, 'transaction_datetime': '2022-02-06 19:56:49'}
+22/02/06 19:56:50 INFO Kafka Producer Demo: Sending message to Kafka topic: 186
+22/02/06 19:56:50 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '186', 'transaction_card_type': 'MasterCard', 'transaction_amount': 24.73, 'transaction_datetime': '2022-02-06 19:56:50'}
+22/02/06 19:56:51 INFO Kafka Producer Demo: Sending message to Kafka topic: 187
+22/02/06 19:56:51 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '187', 'transaction_card_type': 'MasterCard', 'transaction_amount': 177.84, 'transaction_datetime': '2022-02-06 19:56:51'}
+22/02/06 19:56:52 INFO Kafka Producer Demo: Sending message to Kafka topic: 188
+22/02/06 19:56:52 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '188', 'transaction_card_type': 'Visa', 'transaction_amount': 136.31, 'transaction_datetime': '2022-02-06 19:56:52'}
+22/02/06 19:56:53 INFO Kafka Producer Demo: Sending message to Kafka topic: 189
+22/02/06 19:56:53 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '189', 'transaction_card_type': 'Visa', 'transaction_amount': 8.38, 'transaction_datetime': '2022-02-06 19:56:53'}
+22/02/06 19:56:54 INFO Kafka Producer Demo: Sending message to Kafka topic: 190
+22/02/06 19:56:54 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '190', 'transaction_card_type': 'MasterCard', 'transaction_amount': 350.86, 'transaction_datetime': '2022-02-06 19:56:54'}
+22/02/06 19:56:55 INFO Kafka Producer Demo: Sending message to Kafka topic: 191
+22/02/06 19:56:55 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '191', 'transaction_card_type': 'MasterCard', 'transaction_amount': 90.44, 'transaction_datetime': '2022-02-06 19:56:55'}
+22/02/06 19:56:56 INFO Kafka Producer Demo: Sending message to Kafka topic: 192
+22/02/06 19:56:56 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '192', 'transaction_card_type': 'Maestro', 'transaction_amount': 484.64, 'transaction_datetime': '2022-02-06 19:56:56'}
+22/02/06 19:56:57 INFO Kafka Producer Demo: Sending message to Kafka topic: 193
+22/02/06 19:56:57 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '193', 'transaction_card_type': 'MasterCard', 'transaction_amount': 26.87, 'transaction_datetime': '2022-02-06 19:56:57'}
+22/02/06 19:56:58 INFO Kafka Producer Demo: Sending message to Kafka topic: 194
+22/02/06 19:56:58 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '194', 'transaction_card_type': 'Visa', 'transaction_amount': 148.03, 'transaction_datetime': '2022-02-06 19:56:58'}
+22/02/06 19:56:59 INFO Kafka Producer Demo: Sending message to Kafka topic: 195
+22/02/06 19:56:59 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '195', 'transaction_card_type': 'MasterCard', 'transaction_amount': 226.65, 'transaction_datetime': '2022-02-06 19:56:59'}
+22/02/06 19:57:00 INFO Kafka Producer Demo: Sending message to Kafka topic: 196
+22/02/06 19:57:00 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '196', 'transaction_card_type': 'MasterCard', 'transaction_amount': 449.6, 'transaction_datetime': '2022-02-06 19:57:00'}
+22/02/06 19:57:01 INFO Kafka Producer Demo: Sending message to Kafka topic: 197
+22/02/06 19:57:01 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '197', 'transaction_card_type': 'Maestro', 'transaction_amount': 243.08, 'transaction_datetime': '2022-02-06 19:57:01'}
+22/02/06 19:57:02 INFO Kafka Producer Demo: Sending message to Kafka topic: 198
+22/02/06 19:57:02 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '198', 'transaction_card_type': 'Visa', 'transaction_amount': 21.68, 'transaction_datetime': '2022-02-06 19:57:02'}
+22/02/06 19:57:03 INFO Kafka Producer Demo: Sending message to Kafka topic: 199
+22/02/06 19:57:03 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '199', 'transaction_card_type': 'Maestro', 'transaction_amount': 65.06, 'transaction_datetime': '2022-02-06 19:57:03'}
+22/02/06 19:57:04 INFO Kafka Producer Demo: Sending message to Kafka topic: 200
+22/02/06 19:57:04 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '200', 'transaction_card_type': 'Maestro', 'transaction_amount': 501.65, 'transaction_datetime': '2022-02-06 19:57:04'}
+22/02/06 19:57:05 INFO Kafka Producer Demo: Sending message to Kafka topic: 201
+22/02/06 19:57:05 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '201', 'transaction_card_type': 'MasterCard', 'transaction_amount': 230.18, 'transaction_datetime': '2022-02-06 19:57:05'}
+22/02/06 19:57:06 INFO Kafka Producer Demo: Sending message to Kafka topic: 202
+22/02/06 19:57:06 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '202', 'transaction_card_type': 'Visa', 'transaction_amount': 89.18, 'transaction_datetime': '2022-02-06 19:57:06'}
+22/02/06 19:57:07 INFO Kafka Producer Demo: Sending message to Kafka topic: 203
+22/02/06 19:57:07 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '203', 'transaction_card_type': 'Visa', 'transaction_amount': 165.68, 'transaction_datetime': '2022-02-06 19:57:07'}
+22/02/06 19:57:08 INFO Kafka Producer Demo: Sending message to Kafka topic: 204
+22/02/06 19:57:08 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '204', 'transaction_card_type': 'Maestro', 'transaction_amount': 78.66, 'transaction_datetime': '2022-02-06 19:57:08'}
+22/02/06 19:57:09 INFO Kafka Producer Demo: Sending message to Kafka topic: 205
+22/02/06 19:57:09 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '205', 'transaction_card_type': 'MasterCard', 'transaction_amount': 282.17, 'transaction_datetime': '2022-02-06 19:57:09'}
+22/02/06 19:57:10 INFO Kafka Producer Demo: Sending message to Kafka topic: 206
+22/02/06 19:57:10 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '206', 'transaction_card_type': 'Visa', 'transaction_amount': 220.67, 'transaction_datetime': '2022-02-06 19:57:10'}
+22/02/06 19:57:11 INFO Kafka Producer Demo: Sending message to Kafka topic: 207
+22/02/06 19:57:11 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '207', 'transaction_card_type': 'MasterCard', 'transaction_amount': 136.98, 'transaction_datetime': '2022-02-06 19:57:11'}
+22/02/06 19:57:12 INFO Kafka Producer Demo: Sending message to Kafka topic: 208
+22/02/06 19:57:12 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '208', 'transaction_card_type': 'MasterCard', 'transaction_amount': 133.2, 'transaction_datetime': '2022-02-06 19:57:12'}
+22/02/06 19:57:13 INFO Kafka Producer Demo: Sending message to Kafka topic: 209
+22/02/06 19:57:13 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '209', 'transaction_card_type': 'Visa', 'transaction_amount': 285.67, 'transaction_datetime': '2022-02-06 19:57:13'}
+22/02/06 19:57:14 INFO Kafka Producer Demo: Sending message to Kafka topic: 210
+22/02/06 19:57:14 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '210', 'transaction_card_type': 'Maestro', 'transaction_amount': 271.64, 'transaction_datetime': '2022-02-06 19:57:14'}
+22/02/06 19:57:15 INFO Kafka Producer Demo: Sending message to Kafka topic: 211
+22/02/06 19:57:15 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '211', 'transaction_card_type': 'Visa', 'transaction_amount': 152.19, 'transaction_datetime': '2022-02-06 19:57:15'}
+22/02/06 19:57:16 INFO Kafka Producer Demo: Sending message to Kafka topic: 212
+22/02/06 19:57:16 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '212', 'transaction_card_type': 'Maestro', 'transaction_amount': 75.75, 'transaction_datetime': '2022-02-06 19:57:16'}
+22/02/06 19:57:17 INFO Kafka Producer Demo: Sending message to Kafka topic: 213
+22/02/06 19:57:17 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '213', 'transaction_card_type': 'Maestro', 'transaction_amount': 369.36, 'transaction_datetime': '2022-02-06 19:57:17'}
+22/02/06 19:57:18 INFO Kafka Producer Demo: Sending message to Kafka topic: 214
+22/02/06 19:57:18 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '214', 'transaction_card_type': 'MasterCard', 'transaction_amount': 404.83, 'transaction_datetime': '2022-02-06 19:57:18'}
+22/02/06 19:57:19 INFO Kafka Producer Demo: Sending message to Kafka topic: 215
+22/02/06 19:57:19 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '215', 'transaction_card_type': 'Maestro', 'transaction_amount': 427.1, 'transaction_datetime': '2022-02-06 19:57:19'}
+22/02/06 19:57:20 INFO Kafka Producer Demo: Sending message to Kafka topic: 216
+22/02/06 19:57:20 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '216', 'transaction_card_type': 'MasterCard', 'transaction_amount': 16.62, 'transaction_datetime': '2022-02-06 19:57:20'}
+22/02/06 19:57:21 INFO Kafka Producer Demo: Sending message to Kafka topic: 217
+22/02/06 19:57:21 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '217', 'transaction_card_type': 'MasterCard', 'transaction_amount': 99.2, 'transaction_datetime': '2022-02-06 19:57:21'}
+22/02/06 19:57:22 INFO Kafka Producer Demo: Sending message to Kafka topic: 218
+22/02/06 19:57:22 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '218', 'transaction_card_type': 'MasterCard', 'transaction_amount': 109.16, 'transaction_datetime': '2022-02-06 19:57:22'}
+22/02/06 19:57:23 INFO Kafka Producer Demo: Sending message to Kafka topic: 219
+22/02/06 19:57:23 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '219', 'transaction_card_type': 'Visa', 'transaction_amount': 246.47, 'transaction_datetime': '2022-02-06 19:57:23'}
+22/02/06 19:57:24 INFO Kafka Producer Demo: Sending message to Kafka topic: 220
+22/02/06 19:57:24 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '220', 'transaction_card_type': 'Visa', 'transaction_amount': 234.78, 'transaction_datetime': '2022-02-06 19:57:24'}
+22/02/06 19:57:25 INFO Kafka Producer Demo: Sending message to Kafka topic: 221
+22/02/06 19:57:25 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '221', 'transaction_card_type': 'Visa', 'transaction_amount': 64.62, 'transaction_datetime': '2022-02-06 19:57:25'}
+22/02/06 19:57:26 INFO Kafka Producer Demo: Sending message to Kafka topic: 222
+22/02/06 19:57:26 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '222', 'transaction_card_type': 'Maestro', 'transaction_amount': 286.38, 'transaction_datetime': '2022-02-06 19:57:26'}
+22/02/06 19:57:27 INFO Kafka Producer Demo: Sending message to Kafka topic: 223
+22/02/06 19:57:27 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '223', 'transaction_card_type': 'Visa', 'transaction_amount': 82.92, 'transaction_datetime': '2022-02-06 19:57:27'}
+22/02/06 19:57:28 INFO Kafka Producer Demo: Sending message to Kafka topic: 224
+22/02/06 19:57:28 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '224', 'transaction_card_type': 'Maestro', 'transaction_amount': 292.85, 'transaction_datetime': '2022-02-06 19:57:28'}
+22/02/06 19:57:29 INFO Kafka Producer Demo: Sending message to Kafka topic: 225
+22/02/06 19:57:29 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '225', 'transaction_card_type': 'Maestro', 'transaction_amount': 148.18, 'transaction_datetime': '2022-02-06 19:57:29'}
+22/02/06 19:57:30 INFO Kafka Producer Demo: Sending message to Kafka topic: 226
+22/02/06 19:57:30 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '226', 'transaction_card_type': 'Visa', 'transaction_amount': 381.39, 'transaction_datetime': '2022-02-06 19:57:30'}
+22/02/06 19:57:31 INFO Kafka Producer Demo: Sending message to Kafka topic: 227
+22/02/06 19:57:31 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '227', 'transaction_card_type': 'Maestro', 'transaction_amount': 260.45, 'transaction_datetime': '2022-02-06 19:57:31'}
+22/02/06 19:57:32 INFO Kafka Producer Demo: Sending message to Kafka topic: 228
+22/02/06 19:57:32 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '228', 'transaction_card_type': 'MasterCard', 'transaction_amount': 213.13, 'transaction_datetime': '2022-02-06 19:57:32'}
+22/02/06 19:57:33 INFO Kafka Producer Demo: Sending message to Kafka topic: 229
+22/02/06 19:57:33 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '229', 'transaction_card_type': 'Maestro', 'transaction_amount': 179.56, 'transaction_datetime': '2022-02-06 19:57:33'}
+22/02/06 19:57:34 INFO Kafka Producer Demo: Sending message to Kafka topic: 230
+22/02/06 19:57:34 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '230', 'transaction_card_type': 'MasterCard', 'transaction_amount': 259.2, 'transaction_datetime': '2022-02-06 19:57:34'}
+22/02/06 19:57:35 INFO Kafka Producer Demo: Sending message to Kafka topic: 231
+22/02/06 19:57:35 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '231', 'transaction_card_type': 'MasterCard', 'transaction_amount': 54.99, 'transaction_datetime': '2022-02-06 19:57:35'}
+22/02/06 19:57:36 INFO Kafka Producer Demo: Sending message to Kafka topic: 232
+22/02/06 19:57:36 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '232', 'transaction_card_type': 'Maestro', 'transaction_amount': 136.69, 'transaction_datetime': '2022-02-06 19:57:36'}
+22/02/06 19:57:37 INFO Kafka Producer Demo: Sending message to Kafka topic: 233
+22/02/06 19:57:37 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '233', 'transaction_card_type': 'Maestro', 'transaction_amount': 255.49, 'transaction_datetime': '2022-02-06 19:57:37'}
+22/02/06 19:57:38 INFO Kafka Producer Demo: Sending message to Kafka topic: 234
+22/02/06 19:57:38 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '234', 'transaction_card_type': 'Maestro', 'transaction_amount': 339.21, 'transaction_datetime': '2022-02-06 19:57:38'}
+22/02/06 19:57:39 INFO Kafka Producer Demo: Sending message to Kafka topic: 235
+22/02/06 19:57:39 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '235', 'transaction_card_type': 'MasterCard', 'transaction_amount': 388.85, 'transaction_datetime': '2022-02-06 19:57:39'}
+22/02/06 19:57:40 INFO Kafka Producer Demo: Sending message to Kafka topic: 236
+22/02/06 19:57:40 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '236', 'transaction_card_type': 'Visa', 'transaction_amount': 283.91, 'transaction_datetime': '2022-02-06 19:57:40'}
+22/02/06 19:57:41 INFO Kafka Producer Demo: Sending message to Kafka topic: 237
+22/02/06 19:57:41 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '237', 'transaction_card_type': 'Maestro', 'transaction_amount': 136.49, 'transaction_datetime': '2022-02-06 19:57:41'}
+22/02/06 19:57:42 INFO Kafka Producer Demo: Sending message to Kafka topic: 238
+22/02/06 19:57:42 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '238', 'transaction_card_type': 'MasterCard', 'transaction_amount': 326.59, 'transaction_datetime': '2022-02-06 19:57:42'}
+22/02/06 19:57:43 INFO Kafka Producer Demo: Sending message to Kafka topic: 239
+22/02/06 19:57:43 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '239', 'transaction_card_type': 'Maestro', 'transaction_amount': 504.3, 'transaction_datetime': '2022-02-06 19:57:43'}
+22/02/06 19:57:44 INFO Kafka Producer Demo: Sending message to Kafka topic: 240
+22/02/06 19:57:44 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '240', 'transaction_card_type': 'Visa', 'transaction_amount': 430.6, 'transaction_datetime': '2022-02-06 19:57:44'}
+22/02/06 19:57:45 INFO Kafka Producer Demo: Sending message to Kafka topic: 241
+22/02/06 19:57:45 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '241', 'transaction_card_type': 'MasterCard', 'transaction_amount': 26.81, 'transaction_datetime': '2022-02-06 19:57:45'}
+22/02/06 19:57:46 INFO Kafka Producer Demo: Sending message to Kafka topic: 242
+22/02/06 19:57:46 INFO Kafka Producer Demo: Message to be sent: {'transaction_id': '242', 'transaction_card_type': 'Maestro', 'transaction_amount': 106.62, 'transaction_datetime': '2022-02-06 19:57:46'}

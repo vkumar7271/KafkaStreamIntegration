@@ -1,0 +1,8 @@
+output/
+console-chk-point-dir/commits/
+console-chk-point-dir/offsets/
+console-chk-point-dir/state/
+file-chk-point-dir/commits/
+file-chk-point-dir/offsets/
+kafka-chk-point-dir/commits/
+kafka-chk-point-dir/offsets/
